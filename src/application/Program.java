@@ -35,5 +35,7 @@ public class Program {
         allStudents.addAll(classC);
 
         System.out.println("Total Students: " + allStudents.size());
+
+        sc.close();
     }
 }
